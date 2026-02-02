@@ -1,6 +1,6 @@
 package org.example.module1_intro.operators;
 
-public class UninaryOpr {
+public class UnaryOpr {
     public static void main( String[] args){
         int a=10;
         int b=20;
