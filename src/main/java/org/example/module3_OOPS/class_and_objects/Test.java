@@ -1,4 +1,4 @@
-package org.example.module3_OOPS.ClassAndConstructor;
+package org.example.module3_OOPS.class_and_objects;
 
 public class Test {
     public static void main(String[] args) {
@@ -7,7 +7,8 @@ public class Test {
         dog.colour = "black";
         dog.speed = 15;
         dog.workType();
-        dog.sound( "bark");
-        Animal cow = new Animal("white",2);
+        dog.sound("bark");
+        Animal cow = new Animal("white", 2);
     }
-}
+    }
+

@@ -1,10 +1,11 @@
-package org.example.module3_OOPS.ClassAndConstructor;
+package org.example.module3_OOPS.class_and_objects;
 
 public class Animal {
     public String colour;
     public Integer speed;
 
-    Animal(){
+    Animal()
+    {
         System.out.println("constructor with 0 arguments");
     }
 
