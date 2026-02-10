@@ -1,4 +1,6 @@
 package org.example.module3_OOPS.abstract_class.example2;
 
-public class Remote {
+public abstract class Remote {
+    public abstract void turnOn();
+    public abstract void turnOff();
 }
