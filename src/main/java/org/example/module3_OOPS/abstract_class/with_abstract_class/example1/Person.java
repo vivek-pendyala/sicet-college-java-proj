@@ -1,4 +1,4 @@
-package org.example.module3_OOPS.abstract_class.example1;
+package org.example.module3_OOPS.abstract_class.with_abstract_class.example1;
 
 public abstract class Person {
 
